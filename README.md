@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emanuel Ortiz</h1>
-<h3 align="center">Soy investigador en Ciberseguridad y Cibercrimen, me gusta la programación</h3>
+<h3 align="center">Soy investigador en Ciberseguridad y Cibercrimen, soy apasaionado por la programación y los proyectos que involucren acciones para poder contrarestar el cibercrimen</h3>
 
 - 🔭 Estoy trabajando en Investigación Academica [Redciber](Redciber)
 
-- 👯 Colaboro actualmente con semilleros de investigación [ONTARE](ONTARE)
+- 👯 Colaboro actualmente con semilleros de investigación académica [ONTARE](ONTARE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
