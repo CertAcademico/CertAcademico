@@ -3,7 +3,7 @@
 
 A brief description of what this project does and who it's for
 
-Doctorando en Computer Science y Magister en Derecho Informático y Nuevas Tecnologías, Investigador en Ciberseguridad, Informática Forense y perito; con capacidad para planear, ejecutar y realizar auditorias forenses e internas en materia de valoración de casos de Ciberlavado, delitos económicos y Cibercrimen.
+Doctor en Computer Science y Magister en Derecho Informático y Nuevas Tecnologías, Investigador en Ciberseguridad, Informática Forense y perito; con capacidad para planear, ejecutar y realizar auditorias forenses e internas en materia de valoración de casos de Ciberlavado, delitos económicos y Cibercrimen.
 
 Es Analista I2 y Ibase designer, Certificado por Agencias de EEUU, FBI, Guardia Civil y Policia Nacional de Korea para la Respuesta a incidentes informáticos, análisis avanzado de artefactos de internet, Politicas en Ciberseguridad, análisis forense (medio y avanzado) Encase I-II-III, MacForensic Lab y Analista experto en malware por Mandiant y Access Data - Cerberus.
 
